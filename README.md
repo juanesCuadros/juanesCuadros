@@ -93,11 +93,8 @@
 ### 🐍 Actividad de contribuciones
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juanesCuadros/juanesCuadros/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juanesCuadros/juanesCuadros/output/github-contribution-grid-snake.svg">
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/juanesCuadros/juanesCuadros/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/juanesCuadros/juanesCuadros/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/juanesCuadros/juanesCuadros/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Snake animation" />
 </p>
 
 ---
@@ -105,12 +102,12 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=juanesCuadros&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanesCuadros&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=juanesCuadros&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=juanesCuadros&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juanesCuadros&theme=default&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=juanesCuadros&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
